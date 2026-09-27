@@ -34,7 +34,7 @@ The dataset was prepared for analysis by:
 * Handling missing Payment Method and Total Charges values where appropriate
 * Preparing the cleaned dataset for analysis and visualization
 
-[1:14 pm, 27/09/2026] Tushar Jain : KPI
+KPI
 
 Value
 
